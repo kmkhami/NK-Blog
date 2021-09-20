@@ -1,6 +1,6 @@
 ---
 name: Nicholas Khami
-avatar: /static/images/antonio_headshot_crop
+avatar: /static/images/antonio_headshot_crop.jpg
 occupation: Undergraduate Computer Science and Math major
 company: University of Texas at Austin, College of Natural Sciences
 email: nicholas.khami@gmail.com
