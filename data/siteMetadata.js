@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Nicholas Khami\'s Personal Blog',
   author: 'Nicholas Khami',
   headerTitle: 'NK_Blog',
-  description: 'A blog about programming projects, work, and life in general',
+  description: 'A blog about programming projects, research, work, and life in general',
   language: 'en-us',
   siteUrl: 'https://nk-blog-kmkhami.vercel.app/',
   siteLogo: '/static/images/logo.png',
